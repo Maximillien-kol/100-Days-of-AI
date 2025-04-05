@@ -1,0 +1,102 @@
+100-Day AI Engineer Master Plan
+Goal: Become job-ready AI Engineer in 100 days.
+
+
+Style: 2 hours per day (you can do more if you like).
+Output: Share daily progress on YouTube (project, code, summary).
+Outcome: By Day 100, you’ll have skills in Python, ML, DL, NLP, and a portfolio with at least 3+ real-world projects.
+
+
+Tools to Use for Free
+Python, Jupyter Notebook, Google Colab
+Kaggle (for datasets and notebooks)
+Hugging Face (free NLP tools)
+Scikit-learn, TensorFlow, PyTorch
+Streamlit, Gradio (for deployment)
+GitHub (portfolio)
+
+
+
+Learning Phases
+
+Phase
+Periods
+Courses
+
+Phase 1 Days 1–15 Python + Math Foundations
+Phase 2 Days 16–30 Machine Learning
+Phase 3 Days 31–45 Deep Learning (Neural Networks, CNNs)
+Phase 4 Days 46–60 Natural Language Processing
+Phase 5 Days 61–75 Real-World Projects
+Phase 6 Days 76–85 Deployment + Tools
+Phase 7 Days 86–100 Specialization + Final Portfolio Project
+
+
+
+
+
+100-Day AI Learning Schedule (YouTube + GitHub Ready)
+
+Days 1–5: Python for AI
+Topics: Variables, Data Types, Loops, Functions, Lists, Dicts
+
+
+Days 6–10: NumPy, Pandas, Matplotlib
+Topics: Arrays, DataFrames, Data Cleaning, Plotting
+
+
+
+Days 11–15: Math for AI
+Topics: Linear Algebra, Probability, Calculus basics
+
+
+Days 16–20: Intro to Machine Learning
+Topics: Supervised vs Unsupervised, Regression, Classification
+
+
+Days 21–30: Classic ML Algorithms
+Topics: Decision Trees, KNN, SVM, Naive Bayes, Clustering
+
+
+Days 31–35: Neural Networks Basics
+Topics: Perceptrons, Forward & Backpropagation
+
+
+Days 36–45: Deep Learning & CNNs
+Topics: Image Classification, Convolution Layers, Activation
+
+
+Days 46–50: NLP Foundations
+Topics: Tokenization, Bag of Words, Word Embeddings
+
+
+Days 51–60: Transformers & Chatbots
+Topics: LSTM, Attention, Transformers, Hugging Face
+
+
+Days 61–70: Real-World Project 1 – AI for Health
+Example: Disease prediction, X-ray image classification
+
+
+Days 71–75: Real-World Project 2 – AI for Agriculture
+Example: Crop disease classifier or smart irrigation predictor
+
+
+Days 76–80: Deployment Skills
+Topics: Flask, Streamlit, Gradio, Hosting with Render or Hugging Face
+
+
+Days 81–85: DevOps & Tools
+Tools: GitHub, Docker (basic), VS Code, Virtual Environments
+
+
+Days 86–95: Final Project (Pick One)
+Ideas: Smart Assistant with voice recognition, Rwandan Kinyarwanda NLP Project, AI Music Generator (basic GANs), AI for Recycling Sorter (Robotics + CV)
+
+Days 96–100: Polish Portfolio + Launch
+Tasks: Upload projects to GitHub & making Portofolio, Create LinkedIn case studies
+
+Record of final “100 Days AI Journey” 
+
+
+
